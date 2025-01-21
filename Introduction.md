@@ -3,7 +3,8 @@ Parallel processing is a method in which independent tasks are executed in paral
 applied to (or related to) real-world scenarios and to share milestones.
 
 
+
 ## Parallel Processing: What's the Point?
-A GPU has thousands of cores that can each run a thread. If we have a bunch on independent tasks where the result of one is independent of the result of the other, then we can run these in parallel (simultaneously).
+CPU's run there operations in sequences called threads. A GPU has thousands of cores that can each run a thread. If we have a bunch on independent tasks where the result of one is independent of the result of the other, then we can run these in parallel (simultaneously).
 This can be helpful for dealing with large data sets or for matrix multiplication for example.
- 
+ ![image](https://github.com/user-attachments/assets/dada7ad5-b3ae-4233-b48f-b1b2d1979a68)
