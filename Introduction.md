@@ -8,5 +8,8 @@ applied to (or related to) real-world scenarios and to share milestones.
 CPU's run there operations in sequences called threads. A GPU has thousands of cores that can each run a thread. If we have a bunch on independent tasks where the result of one is independent of the result of the other, then we can run these in parallel (simultaneously).
 This can be helpful for dealing with large data sets or for matrix multiplication for example.
 
-The following diagram shows the transistors on CPU and GPU and how these are allocated to different functionalities. If you see for the CPU there are four cores and there are more transistors allocated for control and caching as oppossed to GPU.
+The following diagram shows the transistors on CPU and GPU and how these are allocated to different functionalities. If you see for the CPU there are four cores and there are more transistors allocated for control and caching as oppossed to GPU. Even though the 
  ![image](https://github.com/user-attachments/assets/dada7ad5-b3ae-4233-b48f-b1b2d1979a68)
+
+
+## SIMIT Architecture
