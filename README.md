@@ -1,2 +1,2 @@
-# CUDA_Parallel_Processing_Array_Addition
+# CUDA_Parallel_Processing
 My CUDA Projects and Notes
